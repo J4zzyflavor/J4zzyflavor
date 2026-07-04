@@ -140,7 +140,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=J4zzyflavor&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=38BDF8&text_color=9BA7B4&include_all_commits=true" alt="stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=J4zzyflavor&hide_border=true&background=0D1117&stroke=232A33&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=9BA7B4&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakDate=6E7681" alt="streak"/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=J4zzyflavor&bg_color=0D1117&color=E6EDF3&line=22D3EE&point=38BDF8&area=true&area_color=22D3EE&hide_border=true&custom_title=Contribution%20Graph" alt="activity"/>
