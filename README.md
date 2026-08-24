@@ -80,7 +80,7 @@
 > [ниже](#-коммерческие-проекты).
 
 ### 🧠 Deep Learning — полный цикл нейросетей
-[**PRs_Neural_networks**](https://github.com/SENATOROVAI/PRs_Neural_networks) · `PyTorch`
+[**PRs_Neural_networks**](https://github.com/J4zzyflavor/PRs_Neural_networks) · `PyTorch`
 Четыре работы, покрывающие основные семейства DL с честной валидацией и оценкой по метрикам:
 - **Классификация** — своя CNN vs ResNet18 (transfer learning) на Vegetable Dataset (21 000 фото, 15 классов); Accuracy, Precision/Recall/F1, confusion matrix.
 - **Детекция** — YOLO26 (n/s/m) vs Faster R-CNN на Construction Site Safety; mAP@50, mAP@50-95, IoU.
@@ -90,7 +90,7 @@
 `PyTorch` `torchvision` `Ultralytics YOLO26` `Faster R-CNN` `torchmetrics` `torch-fidelity` `scikit-learn`
 
 ### 👁️ Компьютерное зрение
-[**ITMO_CVLab**](https://github.com/SENATOROVAI/ITMO_CVLab) · `OpenCV`
+[**ITMO_CVLab**](https://github.com/J4zzyflavor/ITMO_CVLab) · `OpenCV`
 Классическое CV на Python — каждая задача решена в двух независимых реализациях:
 сегментация (Оцу, адаптивный порог, k-means в Lab/HSV, энтропия текстуры), преобразование
 Хафа (прямые/окружности), сопоставление SIFT/ORB + BFMatcher + ratio-тест Лоу + гомография
@@ -99,7 +99,7 @@
 `OpenCV` `scikit-image` `NumPy` `Matplotlib`
 
 ### 🐄 Подсчёт скота по аэроснимкам (CV + Deep Learning)
-[**VKR_IRLAND**](https://github.com/SENATOROVAI/VKR_IRLAND) · `PyTorch`
+[**VKR_IRLAND**](https://github.com/J4zzyflavor/VKR_IRLAND) · `PyTorch`
 Классификация и подсчёт скота (КРС/овцы) на аэрофотоснимках — две параллельные ветки
 (классификация и детекция) со сравнительным анализом:
 - **Классификация** — своя CNN (8.76M параметров) vs ResNet-50 / VGG-16 / MobileNetV2; лучший результат **VGG-16: 0.9738 accuracy, 0.9736 F1** (своя CNN — 0.9610).
@@ -109,7 +109,7 @@
 `PyTorch` `Ultralytics YOLOv8` `Optuna` `scikit-learn` `OpenCV`
 
 ### 🎛️ Оптимальное управление и численные методы
-[**Optimal_Control**](https://github.com/SENATOROVAI/Optimal_Control) · `Python + Simulink`
+[**Optimal_Control**](https://github.com/J4zzyflavor/Optimal_Control) · `Python + Simulink`
 Практикум из 6 работ в двух параллельных реализациях (Python и Simulink/MATLAB):
 квадратичная оптимизация (Ньютон, Кун–Таккер), принцип максимума Понтрягина (краевая
 задача), LQR на бесконечном/конечном горизонте (уравнения Риккати), фильтр Калмана,
@@ -118,7 +118,7 @@
 `NumPy` `SciPy` `Matplotlib` `MATLAB` `Simulink`
 
 ### ⚙️ Замкнутая система управления (C++/Qt)
-[**System_Programming**](https://github.com/SENATOROVAI/System_Programming) · `C++11 / Qt`
+[**System_Programming**](https://github.com/J4zzyflavor/System_Programming) · `C++11 / Qt`
 Завершённый инженерный проект: эмулятор динамического объекта, бинарный протокол,
 ПИД-регулятор и фильтр Калмана в форме пространства состояний, идентификация модели по
 логам (МНК в MATLAB). Модульные тесты на **Qt Test** (6 тестов).
@@ -130,9 +130,9 @@
 
 <br/>
 
-- 📈 [**Market_Analys**](https://github.com/SENATOROVAI/Market_Analys) — анализ рынка и оценка ёмкости (TAM/SAM/SOM) по данным Avito: отчёт и инвестиционная презентация с визуализацией спроса, цен и плана заказов. *(продуктовая/рыночная аналитика)*
-- 🏭 [**Labs_AnyLogic**](https://github.com/SENATOROVAI/Labs_AnyLogic) — имитационное моделирование производства и логистики в AnyLogic: дискретно-событийные и агентные модели с 3D-анимацией и сбором статистики загрузки ресурсов.
-- 📐 [**VKR_Geodezia**](https://github.com/SENATOROVAI/VKR_Geodezia) — ВКР: инженерно-геодезические изыскания, GNSS/RTK-съёмка, точностной анализ, обработка исполнительной съёмки (DXF, ~29 тыс. объектов). *(опыт работы с геопространственными данными)*
+- 📈 [**Market_Analys**](https://github.com/J4zzyflavor/Market_Analys) — анализ рынка и оценка ёмкости (TAM/SAM/SOM) по данным Avito: отчёт и инвестиционная презентация с визуализацией спроса, цен и плана заказов. *(продуктовая/рыночная аналитика)*
+- 🏭 [**Labs_AnyLogic**](https://github.com/J4zzyflavor/Labs_AnyLogic) — имитационное моделирование производства и логистики в AnyLogic: дискретно-событийные и агентные модели с 3D-анимацией и сбором статистики загрузки ресурсов.
+- 📐 [**VKR_Geodezia**](https://github.com/J4zzyflavor/VKR_Geodezia) — ВКР: инженерно-геодезические изыскания, GNSS/RTK-съёмка, точностной анализ, обработка исполнительной съёмки (DXF, ~29 тыс. объектов). *(опыт работы с геопространственными данными)*
 
 </details>
 
@@ -251,7 +251,7 @@ under NDA — see [below](#-commercial-work).
 
 
 ### 🧠 Deep Learning — full neural-network cycle
-[**PRs_Neural_networks**](https://github.com/SENATOROVAI/PRs_Neural_networks) · `PyTorch`
+[**PRs_Neural_networks**](https://github.com/J4zzyflavor/PRs_Neural_networks) · `PyTorch`
 Four assignments covering the core DL families with honest validation and metric-based evaluation:
 - **Classification** — custom CNN vs ResNet18 (transfer learning) on Vegetable Dataset (21,000 images, 15 classes); Accuracy, Precision/Recall/F1, confusion matrix.
 - **Detection** — YOLO26 (n/s/m) vs Faster R-CNN on Construction Site Safety; mAP@50, mAP@50-95, IoU.
@@ -261,7 +261,7 @@ Four assignments covering the core DL families with honest validation and metric
 `PyTorch` `torchvision` `Ultralytics YOLO26` `Faster R-CNN` `torchmetrics` `torch-fidelity` `scikit-learn`
 
 ### 👁️ Computer Vision
-[**ITMO_CVLab**](https://github.com/SENATOROVAI/ITMO_CVLab) · `OpenCV`
+[**ITMO_CVLab**](https://github.com/J4zzyflavor/ITMO_CVLab) · `OpenCV`
 Classical CV in Python — every task solved in two independent implementations: segmentation
 (Otsu, adaptive threshold, k-means in Lab/HSV, texture entropy), Hough transform (lines/circles),
 SIFT/ORB matching + BFMatcher + Lowe's ratio test + homography via RANSAC, Viola–Jones face
@@ -270,7 +270,7 @@ detection over video frames.
 `OpenCV` `scikit-image` `NumPy` `Matplotlib`
 
 ### 🐄 Aerial Livestock Counting (CV + Deep Learning)
-[**VKR_IRLAND**](https://github.com/SENATOROVAI/VKR_IRLAND) · `PyTorch`
+[**VKR_IRLAND**](https://github.com/J4zzyflavor/VKR_IRLAND) · `PyTorch`
 Classification and counting of livestock (cattle/sheep) from aerial imagery — two parallel
 tracks (classification and detection) with comparative analysis:
 - **Classification** — custom CNN (8.76M params) vs ResNet-50 / VGG-16 / MobileNetV2; best **VGG-16: 0.9738 accuracy, 0.9736 F1** (custom CNN — 0.9610).
@@ -280,7 +280,7 @@ tracks (classification and detection) with comparative analysis:
 `PyTorch` `Ultralytics YOLOv8` `Optuna` `scikit-learn` `OpenCV`
 
 ### 🎛️ Optimal Control & Numerical Methods
-[**Optimal_Control**](https://github.com/SENATOROVAI/Optimal_Control) · `Python + Simulink`
+[**Optimal_Control**](https://github.com/J4zzyflavor/Optimal_Control) · `Python + Simulink`
 A 6-assignment course in two parallel implementations (Python and Simulink/MATLAB): quadratic
 optimization (Newton, Karush–Kuhn–Tucker), Pontryagin's maximum principle (boundary-value
 problem), infinite/finite-horizon LQR (Riccati equations), Kalman filter, robust H∞ synthesis.
@@ -289,7 +289,7 @@ Executable code with simulations and visualization.
 `NumPy` `SciPy` `Matplotlib` `MATLAB` `Simulink`
 
 ### ⚙️ Closed-loop Control System (C++/Qt)
-[**System_Programming**](https://github.com/SENATOROVAI/System_Programming) · `C++11 / Qt`
+[**System_Programming**](https://github.com/J4zzyflavor/System_Programming) · `C++11 / Qt`
 A finished engineering project: dynamic-object emulator, binary protocol, PID controller and
 Kalman filter in state-space form, model identification from logs (least squares in MATLAB).
 Unit tests with **Qt Test** (6 tests).
@@ -301,9 +301,9 @@ Unit tests with **Qt Test** (6 tests).
 
 <br/>
 
-- 📈 [**Market_Analys**](https://github.com/SENATOROVAI/Market_Analys) — market analysis and sizing (TAM/SAM/SOM) on Avito data: report and investment deck with demand, pricing and ordering-plan visualization. *(product / market analytics)*
-- 🏭 [**Labs_AnyLogic**](https://github.com/SENATOROVAI/Labs_AnyLogic) — discrete-event and agent-based simulation of production and logistics in AnyLogic, with 3D animation and resource-utilization statistics.
-- 📐 [**VKR_Geodezia**](https://github.com/SENATOROVAI/VKR_Geodezia) — thesis: engineering-geodetic survey, GNSS/RTK, accuracy analysis, as-built processing (DXF, ~29k objects). *(geospatial-data experience)*
+- 📈 [**Market_Analys**](https://github.com/J4zzyflavor/Market_Analys) — market analysis and sizing (TAM/SAM/SOM) on Avito data: report and investment deck with demand, pricing and ordering-plan visualization. *(product / market analytics)*
+- 🏭 [**Labs_AnyLogic**](https://github.com/J4zzyflavor/Labs_AnyLogic) — discrete-event and agent-based simulation of production and logistics in AnyLogic, with 3D animation and resource-utilization statistics.
+- 📐 [**VKR_Geodezia**](https://github.com/J4zzyflavor/VKR_Geodezia) — thesis: engineering-geodetic survey, GNSS/RTK, accuracy analysis, as-built processing (DXF, ~29k objects). *(geospatial-data experience)*
 
 </details>
 
