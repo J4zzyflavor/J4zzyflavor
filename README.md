@@ -32,8 +32,7 @@
 
 **Data Science инженер** с сильной математической базой. Проектирую и обучаю модели
 машинного и глубокого обучения, довожу задачи от постановки и данных — до валидации,
-метрик и оформленных результатов. Работаю над прикладными проектами в
-[**@SENATOROVAI**](https://github.com/SENATOROVAI) — международной команде Data Science.
+метрик и оформленных результатов. Работаю над прикладными проектами. Так же мой профиль на фриланс бирже - https://kwork.ru/user/jazzyflavor
 
 - 🧠 **Фокус:** Deep Learning (CV, NLP, генеративные модели), классический ML, статистика, численные методы.
 - 🛠️ **Подход:** честная валидация (train/val/test), сравнение архитектур, оценка по метрикам, воспроизводимость.
@@ -160,6 +159,7 @@
 - ✈️ **Telegram:** [@Jazzyflavor](https://t.me/Jazzyflavor)
 - 🧪 **ODS.ai:** [профиль](https://ods.ai/users/i173b2fc2b6f8)
 - ✉️ **Email:** mrjazzyk@gmail.com
+- **Kwork** https://kwork.ru/user/jazzyflavor
 
 <div align="right"><a href="#top">↑ Наверх</a></div>
 
@@ -224,8 +224,6 @@ data to validation, metrics and polished deliverables. I build applied projects 
 
 ## 🚀 Featured Projects
 
-> Built within [@SENATOROVAI](https://github.com/SENATOROVAI). Descriptions reflect the actual
-> repository contents — no embellished metrics.
 
 ### 🧠 Deep Learning — full neural-network cycle
 [**PRs_Neural_networks**](https://github.com/SENATOROVAI/PRs_Neural_networks) · `PyTorch`
