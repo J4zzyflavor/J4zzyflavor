@@ -75,8 +75,10 @@
 
 ## 🚀 Избранные проекты
 
-> Проекты выполнены в организации [@SENATOROVAI](https://github.com/SENATOROVAI). Описания
-> отражают реальное содержимое репозиториев — без приукрашенных метрик.
+> Исследовательские и учебные работы этого раздела выполнены в организации
+> [@SENATOROVAI](https://github.com/SENATOROVAI). Описания отражают реальное содержимое
+> репозиториев — без приукрашенных метрик. Коммерческие проекты закрыты NDA — о них
+> [ниже](#-коммерческие-проекты).
 
 ### 🧠 Deep Learning — полный цикл нейросетей
 [**PRs_Neural_networks**](https://github.com/SENATOROVAI/PRs_Neural_networks) · `PyTorch`
@@ -135,6 +137,30 @@
 
 </details>
 
+## 🔒 Коммерческие проекты
+
+Бо́льшая часть коммерческой работы закрыта NDA и не выкладывается публично: исходники,
+данные и документация принадлежат заказчикам. Публичные репозитории выше — исследовательские
+и учебные работы, где таких ограничений нет.
+
+Что сделано под NDA — по направлениям, без названий заказчиков:
+
+- **Backend-системы** — платформа управления сетью салонов и выездной логистикой:
+  ~58 000 строк Python, PostgreSQL, FastAPI, Telegram-бот, планировщик, веб-админка,
+  **724 автотеста**, развёртывание одной командой в Docker Compose
+- **AI-автоматизация** — бот-консультант для Ozon и Wildberries: черновик ответа готовит LLM,
+  отправляет оператор; конвейер производства статей с мониторингом источников и публикацией
+  в WordPress; бот приёма заявок на конечном автомате
+- **Данные** — сборщик семантического ядра: сбор поисковых подсказок по трём ГЕО, частотность,
+  кластеризация, определение интента, выгрузка в Excel
+- **3D и интерфейсы** — игровые UI-платформы: моделирование в Blender, текстуры, экспорт в glTF
+- **Браузерные расширения** — Chrome MV3: шахматный анализ на Stockfish 18 поверх WebAssembly,
+  протокол UCI, многопоточность через SharedArrayBuffer
+
+Код этих проектов собран в приватном репозитории — вычищенный от ключей, боевых данных и
+материалов заказчиков. Открою доступ по запросу: [@Jazzyflavor](https://t.me/Jazzyflavor)
+или mrjazzyk@gmail.com.
+
 ## 📊 Активность
 
 <div align="center">
@@ -180,8 +206,9 @@
 
 **Data Science Engineer** with a strong mathematical foundation. I design and train
 machine-learning and deep-learning models, and carry problems end-to-end — from framing and
-data to validation, metrics and polished deliverables. I build applied projects at
-[**@SENATOROVAI**](https://github.com/SENATOROVAI), an international Data Science team.
+data to validation, metrics and polished deliverables. Part of my public work is done at
+[**@SENATOROVAI**](https://github.com/SENATOROVAI), an international Data Science team; most of
+my commercial projects are under NDA — see [below](#-commercial-work).
 
 - 🧠 **Focus:** Deep Learning (CV, NLP, generative models), classical ML, statistics, numerical methods.
 - 🛠️ **Approach:** honest validation (train/val/test), architecture comparison, metric-based evaluation, reproducibility.
@@ -281,6 +308,30 @@ Unit tests with **Qt Test** (6 tests).
 - 📐 [**VKR_Geodezia**](https://github.com/SENATOROVAI/VKR_Geodezia) — thesis: engineering-geodetic survey, GNSS/RTK, accuracy analysis, as-built processing (DXF, ~29k objects). *(geospatial-data experience)*
 
 </details>
+
+## 🔒 Commercial Work
+
+Most of my commercial work is covered by NDA and is not published: source code, data and
+documentation belong to the clients. The public repositories above are research and academic
+work, where no such restrictions apply.
+
+What I have built under NDA, by area, without naming clients:
+
+- **Backend systems** — a management platform for a salon network and field logistics:
+  ~58,000 lines of Python, PostgreSQL, FastAPI, a Telegram bot, a scheduler, a web admin panel,
+  **724 automated tests**, single-command deployment via Docker Compose
+- **AI automation** — a reply bot for the Ozon and Wildberries marketplaces, where an LLM drafts
+  the answer and a human operator sends it; an article production pipeline with source monitoring
+  and WordPress publishing; a finite-state-machine bot for request intake
+- **Data** — a semantic-core builder: search-suggestion collection across three geos, frequency,
+  clustering, intent detection, Excel export
+- **3D & interfaces** — game UI platforms: modelling in Blender, texturing, glTF export
+- **Browser extensions** — Chrome MV3: chess analysis powered by Stockfish 18 on WebAssembly,
+  the UCI protocol, multithreading via SharedArrayBuffer
+
+The code for these projects lives in a private repository, stripped of keys, production data and
+client materials. Happy to grant access on request: [@Jazzyflavor](https://t.me/Jazzyflavor)
+or mrjazzyk@gmail.com.
 
 ## 📊 Activity
 
