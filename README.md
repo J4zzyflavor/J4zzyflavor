@@ -75,8 +75,7 @@
 
 ## 🚀 Избранные проекты
 
-> Исследовательские и учебные работы этого раздела выполнены в организации
-> [@SENATOROVAI](https://github.com/SENATOROVAI). Описания отражают реальное содержимое
+> Исследовательские и учебные работы. Описания отражают реальное содержимое
 > репозиториев — без приукрашенных метрик. Коммерческие проекты закрыты NDA — о них
 > [ниже](#-коммерческие-проекты).
 
@@ -206,9 +205,8 @@
 
 **Data Science Engineer** with a strong mathematical foundation. I design and train
 machine-learning and deep-learning models, and carry problems end-to-end — from framing and
-data to validation, metrics and polished deliverables. Part of my public work is done at
-[**@SENATOROVAI**](https://github.com/SENATOROVAI), an international Data Science team; most of
-my commercial projects are under NDA — see [below](#-commercial-work).
+data to validation, metrics and polished deliverables. Most of my commercial projects are
+under NDA — see [below](#-commercial-work).
 
 - 🧠 **Focus:** Deep Learning (CV, NLP, generative models), classical ML, statistics, numerical methods.
 - 🛠️ **Approach:** honest validation (train/val/test), architecture comparison, metric-based evaluation, reproducibility.
