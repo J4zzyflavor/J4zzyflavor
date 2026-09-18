@@ -18,6 +18,7 @@
 <br/><br/>
 
 <a href="https://j4zzyflavor.github.io"><img src="https://img.shields.io/badge/🚀_Portfolio-22D3EE?style=for-the-badge&logoColor=0D1117&color=22D3EE" alt="Portfolio"/></a>
+<a href="https://kwork.ru/user/jazzyflavor"><img src="https://img.shields.io/badge/Kwork-161B22?style=for-the-badge&logoColor=22D3EE" alt="Kwork"/></a>
 <a href="https://www.kaggle.com/jazzyflavor"><img src="https://img.shields.io/badge/Kaggle-161B22?style=for-the-badge&logo=kaggle&logoColor=22D3EE" alt="Kaggle"/></a>
 <a href="https://t.me/Jazzyflavor"><img src="https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=22D3EE" alt="Telegram"/></a>
 <a href="https://linkedin.com/in/jazzyflavor"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>
@@ -32,11 +33,12 @@
 
 **Data Science инженер** с сильной математической базой. Проектирую и обучаю модели
 машинного и глубокого обучения, довожу задачи от постановки и данных — до валидации,
-метрик и оформленных результатов. Работаю над прикладными проектами. Так же мой профиль на фриланс бирже - https://kwork.ru/user/jazzyflavor
+метрик и оформленных результатов. Работаю над прикладными проектами.
 
 - 🧠 **Фокус:** Deep Learning (CV, NLP, генеративные модели), классический ML, статистика, численные методы.
 - 🛠️ **Подход:** честная валидация (train/val/test), сравнение архитектур, оценка по метрикам, воспроизводимость.
 - 🎯 **Ценность:** превращаю данные и математику в работающие, проверяемые решения.
+- 🤖 **На заказ для бизнеса:** ИИ-ассистенты для сайта и мессенджеров, чат по документам компании (RAG), ИИ-агенты для CRM, боты для Авито и Telegram. Прототипы и замеры качества: [j4zzyflavor.github.io/ai](https://j4zzyflavor.github.io/ai/). Заказать: [kwork.ru/user/jazzyflavor](https://kwork.ru/user/jazzyflavor).
 - 🎷 *Джаз-подход к инженерии: точность, импровизация и структура.*
 
 ## 🧰 Технологии
