@@ -1,360 +1,63 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     J4zzyflavor · Profile README
-     Репозиторий: J4zzyflavor/J4zzyflavor  →  файл README.md
-     Стиль: «Инженер-премиум» (графит #0D1117 + циан #22D3EE)
-     Двуязычный: RU / EN (переключение по якорям)
-     ═══════════════════════════════════════════════════════════ -->
-
 <a id="top"></a>
 
-<div align="center">
+<p align="center">
+  <img width="100%" alt="Михаил jazzyflavor — ИИ-боты и автоматизация для малого бизнеса" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0e2a33,100:22D3EE&height=200&section=header&text=%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%20jazzyflavor&fontSize=52&fontColor=E6EDF3&fontAlignY=36&desc=%D0%98%D0%98-%D0%B1%D0%BE%D1%82%D1%8B%20%D0%B8%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B4%D0%BB%D1%8F%20%D0%BC%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B0&descSize=18&descAlignY=58&descColor=9BA7B4" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0e2a33,100:22D3EE&height=200&section=header&text=Michail%20%C2%B7%20J4zzyflavor&fontSize=52&fontColor=E6EDF3&fontAlignY=36&desc=Data%20Science%20Engineer%20%C2%B7%20ML%20%2F%20Deep%20Learning%20%C2%B7%20Statistics&descSize=18&descAlignY=58&descColor=9BA7B4" alt="header"/>
+<p align="center">
+  <a href="https://j4zzyflavor.github.io"><img alt="site" src="https://img.shields.io/badge/site-j4zzyflavor.github.io-22D3EE?style=for-the-badge&labelColor=161B22" /></a>
+  <a href="https://j4zzyflavor.github.io/uslugi/"><img alt="services" src="https://img.shields.io/badge/%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B8-%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-22D3EE?style=for-the-badge&labelColor=161B22" /></a>
+  <a href="https://kwork.ru/user/jazzyflavor"><img alt="kwork" src="https://img.shields.io/badge/kwork-jazzyflavor-22D3EE?style=for-the-badge&labelColor=161B22" /></a>
+  <a href="https://vc.ru/id6145334"><img alt="vc.ru" src="https://img.shields.io/badge/vc.ru-id6145334-22D3EE?style=for-the-badge&labelColor=161B22" /></a>
+  <a href="mailto:mrjazzyk@gmail.com"><img alt="email" src="https://img.shields.io/badge/email-mrjazzyk@gmail.com-22D3EE?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=161B22" /></a>
+</p>
 
-<a href="#ru"><img src="https://img.shields.io/badge/%F0%9F%87%B7%F0%9F%87%BA_Русский-0D1117?style=for-the-badge&labelColor=22D3EE&color=161B22" alt="Русский"/></a>
-&nbsp;
-<a href="#en"><img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7_English-0D1117?style=for-the-badge&labelColor=161B22&color=161B22" alt="English"/></a>
+## Что я делаю
 
-<br/><br/>
+Снимаю с малого бизнеса рутину: **бот отвечает клиентам в Авито, мессенджерах и на сайте и передаёт заявку в CRM**, посты выходят на несколько площадок без вас. Делаю под ключ, учу пользоваться и помогаю после сдачи.
 
-<a href="https://j4zzyflavor.github.io"><img src="https://img.shields.io/badge/🚀_Portfolio-22D3EE?style=for-the-badge&logoColor=0D1117&color=22D3EE" alt="Portfolio"/></a>
-<a href="https://kwork.ru/user/jazzyflavor"><img src="https://img.shields.io/badge/Kwork-161B22?style=for-the-badge&logoColor=22D3EE" alt="Kwork"/></a>
-<a href="https://www.kaggle.com/jazzyflavor"><img src="https://img.shields.io/badge/Kaggle-161B22?style=for-the-badge&logo=kaggle&logoColor=22D3EE" alt="Kaggle"/></a>
-<a href="https://t.me/Jazzyflavor"><img src="https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=22D3EE" alt="Telegram"/></a>
-<a href="https://linkedin.com/in/jazzyflavor"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>
-<a href="mailto:mrjazzyk@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"/></a>
+| Направление | Что получает бизнес |
+|---|---|
+| ИИ-бот для Авито и мессенджеров | Отвечает покупателям в сообщениях Авито и мессенджерах, без рассылок; заявка уходит в таблицу или CRM |
+| ИИ-агент для CRM | amoCRM, Битрикс24, Google Таблицы: заявки и поля заполняются без ручного переноса |
+| Автопостинг в соцсети с ИИ | Один материал выходит на несколько площадок, расписание и журнал публикаций |
+| Парсинг цен, каталогов, остатков | Цены и остатки по открытым источникам в таблице; контакты физлиц для рассылок не собираю |
+| ИИ-ассистент для сайта и по документам | Ответ с указанием источника в документе, отказ, если ответа в документах нет |
 
-</div>
+Подробно, с условиями и ценами: [сайт](https://j4zzyflavor.github.io/uslugi/) и [кворки](https://kwork.ru/user/jazzyflavor). Оплата через безопасную сделку Kwork: деньги уходят исполнителю после вашей приёмки.
 
-<!-- ═══════════════════════ РУССКАЯ ВЕРСИЯ ═══════════════════════ -->
-<a id="ru"></a>
+## Почему можно проверить
 
-## 👋 О себе
+- **Kwork:** 31 заказ, рейтинг 5.0, 25 отзывов, ответ на обращение в среднем за 1 минуту, 0 просрочек из 29 выполненных (данные кабинета на 2026-10-19).
+- **Ко мне возвращаются:** 21 из 25 отзывов оставили 6 клиентов, заказывавших повторно.
+- **Замеры прототипа чата по документам** ([/ai/](https://j4zzyflavor.github.io/ai/)): нужный абзац первым в 15 из 15 вопросов, отказ в 7 из 7 вопросов без ответа в документах; набор из 22 вопросов, локальная модель, прогон 18.09.2026.
+- **После сдачи:** инструкция и помощь с запуском.
 
-**Data Science инженер** с сильной математической базой. Проектирую и обучаю модели
-машинного и глубокого обучения, довожу задачи от постановки и данных — до валидации,
-метрик и оформленных результатов. Работаю над прикладными проектами.
+## Стек
 
-- 🧠 **Фокус:** Deep Learning (CV, NLP, генеративные модели), классический ML, статистика, численные методы.
-- 🛠️ **Подход:** честная валидация (train/val/test), сравнение архитектур, оценка по метрикам, воспроизводимость.
-- 🎯 **Ценность:** превращаю данные и математику в работающие, проверяемые решения.
-- 🤖 **На заказ для бизнеса:** ИИ-ассистенты для сайта и мессенджеров, чат по документам компании (RAG), ИИ-агенты для CRM, боты для Авито и Telegram. Прототипы и замеры качества: [j4zzyflavor.github.io/ai](https://j4zzyflavor.github.io/ai/). Заказать: [kwork.ru/user/jazzyflavor](https://kwork.ru/user/jazzyflavor).
-- 🎷 *Джаз-подход к инженерии: точность, импровизация и структура.*
+<p>
+  <img alt="n8n" src="https://img.shields.io/badge/-n8n-0D1117?style=flat-square&logo=n8n&logoColor=22D3EE" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=22D3EE" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=22D3EE" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=22D3EE" />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=22D3EE" />
+  <img alt="Ollama" src="https://img.shields.io/badge/-Ollama-0D1117?style=flat-square&logo=ollama&logoColor=22D3EE" />
+  <img alt="Google Sheets" src="https://img.shields.io/badge/-Google_Sheets-0D1117?style=flat-square&logo=googlesheets&logoColor=22D3EE" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=22D3EE" />
+</p>
 
-## 🧰 Технологии
+Интеграции по API: Авито, amoCRM, Битрикс24, VK, Google Таблицы; макросы VBA и Apps Script по запросу.
 
-<div align="center">
+## Читать
 
-**Языки**
+Разборы и цифры без рекламы: [vc.ru](https://vc.ru/id6145334) · [Дзен](https://dzen.ru/jazzyflavor).
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=22D3EE)
-![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=22D3EE)
-![MATLAB](https://img.shields.io/badge/MATLAB-0D1117?style=flat-square&logo=mathworks&logoColor=22D3EE)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=22D3EE)
+## Data Science
 
-**ML / Deep Learning**
+Портфолио проектов по машинному обучению, компьютерному зрению и оптимальному управлению: [j4zzyflavor.github.io](https://j4zzyflavor.github.io).
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=22D3EE)
-![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics_YOLO-0D1117?style=flat-square&logo=yolo&logoColor=22D3EE)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=22D3EE)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=22D3EE)
+<p align="center">
+  <img alt="streak" src="https://streak-stats.demolab.com?user=J4zzyflavor&hide_border=true&background=0D1117&stroke=232A33&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=9BA7B4&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakDate=6E7681" />
+</p>
 
-**Данные и вычисления**
-
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=22D3EE)
-![SciPy](https://img.shields.io/badge/SciPy-0D1117?style=flat-square&logo=scipy&logoColor=22D3EE)
-![pandas](https://img.shields.io/badge/pandas-0D1117?style=flat-square&logo=pandas&logoColor=22D3EE)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=plotly&logoColor=22D3EE)
-
-**Инструменты**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=22D3EE)
-![Google Colab](https://img.shields.io/badge/Colab-0D1117?style=flat-square&logo=googlecolab&logoColor=22D3EE)
-![Qt](https://img.shields.io/badge/Qt-0D1117?style=flat-square&logo=qt&logoColor=22D3EE)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=22D3EE)
-
-</div>
-
-## 🚀 Избранные проекты
-
-> Исследовательские и учебные работы. Описания отражают реальное содержимое
-> репозиториев — без приукрашенных метрик. Коммерческие проекты закрыты NDA — о них
-> [ниже](#-коммерческие-проекты).
-
-### 🧠 Deep Learning — полный цикл нейросетей
-[**PRs_Neural_networks**](https://github.com/J4zzyflavor/PRs_Neural_networks) · `PyTorch`
-Четыре работы, покрывающие основные семейства DL с честной валидацией и оценкой по метрикам:
-- **Классификация** — своя CNN vs ResNet18 (transfer learning) на Vegetable Dataset (21 000 фото, 15 классов); Accuracy, Precision/Recall/F1, confusion matrix.
-- **Детекция** — YOLO26 (n/s/m) vs Faster R-CNN на Construction Site Safety; mAP@50, mAP@50-95, IoU.
-- **Генерация текста** — LSTM vs GRU vs Transformer (Tiny Shakespeare), температурное и top-k семплирование; Perplexity.
-- **Генерация изображений** — Vanilla GAN vs DCGAN (CIFAR-10); FID, Inception Score, интерполяция латентного пространства.
-
-`PyTorch` `torchvision` `Ultralytics YOLO26` `Faster R-CNN` `torchmetrics` `torch-fidelity` `scikit-learn`
-
-### 👁️ Компьютерное зрение
-[**ITMO_CVLab**](https://github.com/J4zzyflavor/ITMO_CVLab) · `OpenCV`
-Классическое CV на Python — каждая задача решена в двух независимых реализациях:
-сегментация (Оцу, адаптивный порог, k-means в Lab/HSV, энтропия текстуры), преобразование
-Хафа (прямые/окружности), сопоставление SIFT/ORB + BFMatcher + ratio-тест Лоу + гомография
-через RANSAC, детекция лиц Виола–Джонс по кадрам видео.
-
-`OpenCV` `scikit-image` `NumPy` `Matplotlib`
-
-### 🐄 Подсчёт скота по аэроснимкам (CV + Deep Learning)
-[**VKR_IRLAND**](https://github.com/J4zzyflavor/VKR_IRLAND) · `PyTorch`
-Классификация и подсчёт скота (КРС/овцы) на аэрофотоснимках — две параллельные ветки
-(классификация и детекция) со сравнительным анализом:
-- **Классификация** — своя CNN (8.76M параметров) vs ResNet-50 / VGG-16 / MobileNetV2; лучший результат **VGG-16: 0.9738 accuracy, 0.9736 F1** (своя CNN — 0.9610).
-- **Детекция и подсчёт** — YOLOv8n: **mAP@50 0.9478, Counting MAE 1.576, R² 0.9749**.
-- **Данные и устойчивость** — 7 744 кропа (классиф.) и 1 835 изображений (детекция); анализ робастности к освещению и перекрытию.
-
-`PyTorch` `Ultralytics YOLOv8` `Optuna` `scikit-learn` `OpenCV`
-
-### 🎛️ Оптимальное управление и численные методы
-[**Optimal_Control**](https://github.com/J4zzyflavor/Optimal_Control) · `Python + Simulink`
-Практикум из 6 работ в двух параллельных реализациях (Python и Simulink/MATLAB):
-квадратичная оптимизация (Ньютон, Кун–Таккер), принцип максимума Понтрягина (краевая
-задача), LQR на бесконечном/конечном горизонте (уравнения Риккати), фильтр Калмана,
-робастный H∞-синтез. Исполняемый код с симуляциями и визуализацией.
-
-`NumPy` `SciPy` `Matplotlib` `MATLAB` `Simulink`
-
-### ⚙️ Замкнутая система управления (C++/Qt)
-[**System_Programming**](https://github.com/J4zzyflavor/System_Programming) · `C++11 / Qt`
-Завершённый инженерный проект: эмулятор динамического объекта, бинарный протокол,
-ПИД-регулятор и фильтр Калмана в форме пространства состояний, идентификация модели по
-логам (МНК в MATLAB). Модульные тесты на **Qt Test** (6 тестов).
-
-`C++11` `Qt / QML` `Qt Charts` `Qt Test` `MATLAB`
-
-<details>
-<summary>📂 <b>Ещё проекты</b> — аналитика и моделирование</summary>
-
-<br/>
-
-- 📈 [**Market_Analys**](https://github.com/J4zzyflavor/Market_Analys) — анализ рынка и оценка ёмкости (TAM/SAM/SOM) по данным Avito: отчёт и инвестиционная презентация с визуализацией спроса, цен и плана заказов. *(продуктовая/рыночная аналитика)*
-- 🏭 [**Labs_AnyLogic**](https://github.com/J4zzyflavor/Labs_AnyLogic) — имитационное моделирование производства и логистики в AnyLogic: дискретно-событийные и агентные модели с 3D-анимацией и сбором статистики загрузки ресурсов.
-- 📐 [**VKR_Geodezia**](https://github.com/J4zzyflavor/VKR_Geodezia) — ВКР: инженерно-геодезические изыскания, GNSS/RTK-съёмка, точностной анализ, обработка исполнительной съёмки (DXF, ~29 тыс. объектов). *(опыт работы с геопространственными данными)*
-
-</details>
-
-## 🔒 Коммерческие проекты
-
-Бо́льшая часть коммерческой работы закрыта NDA и не выкладывается публично: исходники,
-данные и документация принадлежат заказчикам. Публичные репозитории выше — исследовательские
-и учебные работы, где таких ограничений нет.
-
-Что сделано под NDA — по направлениям, без названий заказчиков:
-
-- **Backend-системы** — платформа управления сетью салонов и выездной логистикой:
-  ~58 000 строк Python, PostgreSQL, FastAPI, Telegram-бот, планировщик, веб-админка,
-  **724 автотеста**, развёртывание одной командой в Docker Compose
-- **AI-автоматизация** — бот-консультант для Ozon и Wildberries: черновик ответа готовит LLM,
-  отправляет оператор; конвейер производства статей с мониторингом источников и публикацией
-  в WordPress; бот приёма заявок на конечном автомате
-- **Данные** — сборщик семантического ядра: сбор поисковых подсказок по трём ГЕО, частотность,
-  кластеризация, определение интента, выгрузка в Excel
-- **3D и интерфейсы** — игровые UI-платформы: моделирование в Blender, текстуры, экспорт в glTF
-- **Браузерные расширения** — Chrome MV3: шахматный анализ на Stockfish 18 поверх WebAssembly,
-  протокол UCI, многопоточность через SharedArrayBuffer
-
-Код этих проектов собран в приватном репозитории — вычищенный от ключей, боевых данных и
-материалов заказчиков. Открою доступ по запросу: [@Jazzyflavor](https://t.me/Jazzyflavor)
-или mrjazzyk@gmail.com.
-
-## 📊 Активность
-
-<div align="center">
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=J4zzyflavor&hide_border=true&background=0D1117&stroke=232A33&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=9BA7B4&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakDate=6E7681" alt="streak"/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=J4zzyflavor&bg_color=0D1117&color=E6EDF3&line=22D3EE&point=38BDF8&area=true&area_color=22D3EE&hide_border=true&custom_title=Contribution%20Graph" alt="activity"/>
-
-</div>
-
-## 🎯 Профессиональные акценты
-
-- **Полный DL-стек на практике** — классификация, детекция, генерация текста и изображений (CNN, YOLO, RNN/Transformer, GAN) с честной валидацией и оценкой по mAP, F1, Perplexity, FID/IS.
-- **Классическое компьютерное зрение** — от сегментации до сопоставления признаков и детекции объектов на OpenCV.
-- **Математический фундамент** — оптимальное управление (LQR, Калман, Понтрягин, H∞), численные методы, реализация алгоритмов оптимизации с нуля (SVD, QR, Cholesky, сопряжённые градиенты, SGD, L-BFGS-B, Ridge).
-- **Инженерная зрелость** — завершённый C++/Qt проект с модульными тестами; работы доводятся до сдаваемых артефактов (отчёты, презентации, защита).
-
-## 📫 Контакты
-
-- 💼 **LinkedIn:** [jazzyflavor](https://linkedin.com/in/jazzyflavor)
-- 📊 **Kaggle:** [jazzyflavor](https://www.kaggle.com/jazzyflavor)
-- ✈️ **Telegram:** [@Jazzyflavor](https://t.me/Jazzyflavor)
-- 🧪 **ODS.ai:** [профиль](https://ods.ai/users/i173b2fc2b6f8)
-- ✉️ **Email:** mrjazzyk@gmail.com
-- **Kwork** https://kwork.ru/user/jazzyflavor
-
-<div align="right"><a href="#top">↑ Наверх</a></div>
-
----
-
-<!-- ═══════════════════════ ENGLISH VERSION ═══════════════════════ -->
-<a id="en"></a>
-
-<div align="center">
-
-<a href="#ru"><img src="https://img.shields.io/badge/%F0%9F%87%B7%F0%9F%87%BA_Русский-0D1117?style=for-the-badge&labelColor=161B22&color=161B22" alt="Русский"/></a>
-&nbsp;
-<a href="#en"><img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7_English-0D1117?style=for-the-badge&labelColor=22D3EE&color=161B22" alt="English"/></a>
-
-</div>
-
-## 👋 About
-
-**Data Science Engineer** with a strong mathematical foundation. I design and train
-machine-learning and deep-learning models, and carry problems end-to-end — from framing and
-data to validation, metrics and polished deliverables. Most of my commercial projects are
-under NDA — see [below](#-commercial-work).
-
-- 🧠 **Focus:** Deep Learning (CV, NLP, generative models), classical ML, statistics, numerical methods.
-- 🛠️ **Approach:** honest validation (train/val/test), architecture comparison, metric-based evaluation, reproducibility.
-- 🎯 **Value:** turning data and mathematics into working, verifiable solutions.
-- 🎷 *A jazz approach to engineering: precision, improvisation and structure.*
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=22D3EE)
-![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=22D3EE)
-![MATLAB](https://img.shields.io/badge/MATLAB-0D1117?style=flat-square&logo=mathworks&logoColor=22D3EE)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=22D3EE)
-
-**ML / Deep Learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=22D3EE)
-![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics_YOLO-0D1117?style=flat-square&logo=yolo&logoColor=22D3EE)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=22D3EE)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=22D3EE)
-
-**Data & Computing**
-
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=22D3EE)
-![SciPy](https://img.shields.io/badge/SciPy-0D1117?style=flat-square&logo=scipy&logoColor=22D3EE)
-![pandas](https://img.shields.io/badge/pandas-0D1117?style=flat-square&logo=pandas&logoColor=22D3EE)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=plotly&logoColor=22D3EE)
-
-**Tools**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=22D3EE)
-![Google Colab](https://img.shields.io/badge/Colab-0D1117?style=flat-square&logo=googlecolab&logoColor=22D3EE)
-![Qt](https://img.shields.io/badge/Qt-0D1117?style=flat-square&logo=qt&logoColor=22D3EE)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=22D3EE)
-
-</div>
-
-## 🚀 Featured Projects
-
-
-### 🧠 Deep Learning — full neural-network cycle
-[**PRs_Neural_networks**](https://github.com/J4zzyflavor/PRs_Neural_networks) · `PyTorch`
-Four assignments covering the core DL families with honest validation and metric-based evaluation:
-- **Classification** — custom CNN vs ResNet18 (transfer learning) on Vegetable Dataset (21,000 images, 15 classes); Accuracy, Precision/Recall/F1, confusion matrix.
-- **Detection** — YOLO26 (n/s/m) vs Faster R-CNN on Construction Site Safety; mAP@50, mAP@50-95, IoU.
-- **Text generation** — LSTM vs GRU vs Transformer (Tiny Shakespeare), temperature & top-k sampling; Perplexity.
-- **Image generation** — Vanilla GAN vs DCGAN (CIFAR-10); FID, Inception Score, latent-space interpolation.
-
-`PyTorch` `torchvision` `Ultralytics YOLO26` `Faster R-CNN` `torchmetrics` `torch-fidelity` `scikit-learn`
-
-### 👁️ Computer Vision
-[**ITMO_CVLab**](https://github.com/J4zzyflavor/ITMO_CVLab) · `OpenCV`
-Classical CV in Python — every task solved in two independent implementations: segmentation
-(Otsu, adaptive threshold, k-means in Lab/HSV, texture entropy), Hough transform (lines/circles),
-SIFT/ORB matching + BFMatcher + Lowe's ratio test + homography via RANSAC, Viola–Jones face
-detection over video frames.
-
-`OpenCV` `scikit-image` `NumPy` `Matplotlib`
-
-### 🐄 Aerial Livestock Counting (CV + Deep Learning)
-[**VKR_IRLAND**](https://github.com/J4zzyflavor/VKR_IRLAND) · `PyTorch`
-Classification and counting of livestock (cattle/sheep) from aerial imagery — two parallel
-tracks (classification and detection) with comparative analysis:
-- **Classification** — custom CNN (8.76M params) vs ResNet-50 / VGG-16 / MobileNetV2; best **VGG-16: 0.9738 accuracy, 0.9736 F1** (custom CNN — 0.9610).
-- **Detection & counting** — YOLOv8n: **mAP@50 0.9478, Counting MAE 1.576, R² 0.9749**.
-- **Data & robustness** — 7,744 crops (classification) and 1,835 images (detection); robustness analysis under lighting and occlusion variation.
-
-`PyTorch` `Ultralytics YOLOv8` `Optuna` `scikit-learn` `OpenCV`
-
-### 🎛️ Optimal Control & Numerical Methods
-[**Optimal_Control**](https://github.com/J4zzyflavor/Optimal_Control) · `Python + Simulink`
-A 6-assignment course in two parallel implementations (Python and Simulink/MATLAB): quadratic
-optimization (Newton, Karush–Kuhn–Tucker), Pontryagin's maximum principle (boundary-value
-problem), infinite/finite-horizon LQR (Riccati equations), Kalman filter, robust H∞ synthesis.
-Executable code with simulations and visualization.
-
-`NumPy` `SciPy` `Matplotlib` `MATLAB` `Simulink`
-
-### ⚙️ Closed-loop Control System (C++/Qt)
-[**System_Programming**](https://github.com/J4zzyflavor/System_Programming) · `C++11 / Qt`
-A finished engineering project: dynamic-object emulator, binary protocol, PID controller and
-Kalman filter in state-space form, model identification from logs (least squares in MATLAB).
-Unit tests with **Qt Test** (6 tests).
-
-`C++11` `Qt / QML` `Qt Charts` `Qt Test` `MATLAB`
-
-<details>
-<summary>📂 <b>More projects</b> — analytics & simulation</summary>
-
-<br/>
-
-- 📈 [**Market_Analys**](https://github.com/J4zzyflavor/Market_Analys) — market analysis and sizing (TAM/SAM/SOM) on Avito data: report and investment deck with demand, pricing and ordering-plan visualization. *(product / market analytics)*
-- 🏭 [**Labs_AnyLogic**](https://github.com/J4zzyflavor/Labs_AnyLogic) — discrete-event and agent-based simulation of production and logistics in AnyLogic, with 3D animation and resource-utilization statistics.
-- 📐 [**VKR_Geodezia**](https://github.com/J4zzyflavor/VKR_Geodezia) — thesis: engineering-geodetic survey, GNSS/RTK, accuracy analysis, as-built processing (DXF, ~29k objects). *(geospatial-data experience)*
-
-</details>
-
-## 🔒 Commercial Work
-
-Most of my commercial work is covered by NDA and is not published: source code, data and
-documentation belong to the clients. The public repositories above are research and academic
-work, where no such restrictions apply.
-
-What I have built under NDA, by area, without naming clients:
-
-- **Backend systems** — a management platform for a salon network and field logistics:
-  ~58,000 lines of Python, PostgreSQL, FastAPI, a Telegram bot, a scheduler, a web admin panel,
-  **724 automated tests**, single-command deployment via Docker Compose
-- **AI automation** — a reply bot for the Ozon and Wildberries marketplaces, where an LLM drafts
-  the answer and a human operator sends it; an article production pipeline with source monitoring
-  and WordPress publishing; a finite-state-machine bot for request intake
-- **Data** — a semantic-core builder: search-suggestion collection across three geos, frequency,
-  clustering, intent detection, Excel export
-- **3D & interfaces** — game UI platforms: modelling in Blender, texturing, glTF export
-- **Browser extensions** — Chrome MV3: chess analysis powered by Stockfish 18 on WebAssembly,
-  the UCI protocol, multithreading via SharedArrayBuffer
-
-The code for these projects lives in a private repository, stripped of keys, production data and
-client materials. Happy to grant access on request: [@Jazzyflavor](https://t.me/Jazzyflavor)
-or mrjazzyk@gmail.com.
-
-## 📊 Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=J4zzyflavor&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=38BDF8&text_color=9BA7B4&include_all_commits=true" alt="stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=J4zzyflavor&hide_border=true&background=0D1117&stroke=232A33&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=9BA7B4&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakDate=6E7681" alt="streak"/>
-
-</div>
-
-## 🎯 Highlights
-
-- **Full DL stack in practice** — classification, detection, text and image generation (CNN, YOLO, RNN/Transformer, GAN) with honest validation and mAP / F1 / Perplexity / FID-IS evaluation.
-- **Classical computer vision** — from segmentation to feature matching and object detection with OpenCV.
-- **Mathematical foundation** — optimal control (LQR, Kalman, Pontryagin, H∞), numerical methods, from-scratch optimization algorithms (SVD, QR, Cholesky, conjugate gradient, SGD, L-BFGS-B, Ridge).
-- **Engineering maturity** — a finished C++/Qt project with unit tests; work is carried through to deliverable artifacts (reports, decks, defense).
-
-## 📫 Contact
-
-- 💼 **LinkedIn:** [jazzyflavor](https://linkedin.com/in/jazzyflavor)
-- 📊 **Kaggle:** [jazzyflavor](https://www.kaggle.com/jazzyflavor)
-- ✈️ **Telegram:** [@Jazzyflavor](https://t.me/Jazzyflavor)
-- 🧪 **ODS.ai:** [profile](https://ods.ai/users/i173b2fc2b6f8)
-- ✉️ **Email:** mrjazzyk@gmail.com
-
-<div align="right"><a href="#top">↑ Top</a></div>
+<p align="right"><a href="#top">наверх</a></p>
